@@ -26,7 +26,7 @@ Finally, the function returns 0 if no missing values were found, or the lowest m
 ### Example Usage
 We run `ruby broken.rb` on the terminal
 
-    ```Ruby
+    
         result = sequence_check("1 2 4 3")
         puts result # Output: 0
 
@@ -38,7 +38,7 @@ We run `ruby broken.rb` on the terminal
 
         result = sequence_check("1 5")
         puts result # Output: 2
-    ```
+   
 
 ## Challenge 2: Equal Sides Cuboid
 
